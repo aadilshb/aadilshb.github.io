@@ -10,9 +10,9 @@ export default function Home() {
         <div className="hero-inner">
           <h1 className="fade-up">Hello — I'm <span className="accent">Aadil Shihab</span></h1>
             <p className="lead fade-up fade-up-delay-1">
-              I’m an entry-level backend-focused developer who enjoys building fast, reliable systems.
-              I have worked with Java, Python, and databases so far, and I’m actively improving my skills in API design,
-              data handling, and scalable backend development.
+              I’m a fresher full-stack developer with a strong interest in backend engineering.
+              I have worked with Java, Python, React, and databases so far, and I’m steadily learning better ways
+              to design APIs, build useful interfaces, and develop reliable end-to-end applications.
             </p>
           <div className="hero-ctas fade-up fade-up-delay-2">
             <Link className="btn" to="/projects">Featured Projects</Link>

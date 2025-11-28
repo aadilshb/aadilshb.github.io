@@ -11,7 +11,7 @@ export default function Home() {
           <h1 className="fade-up">Hello — I'm <span className="accent">Aadil Shihab</span></h1>
           <p className="lead fade-up fade-up-delay-1">
             I’m a backend-leaning Software Developer who loves turning ideas into fast, reliable systems.
-I work with Java, Python, and databases, and I’m always learning better ways to design APIs, manage data, and build scalable applications.
+            I work with Java, Python, and databases, and I’m always learning better ways to design APIs, manage data, and build scalable applications.
           </p>
           <div className="hero-ctas fade-up fade-up-delay-2">
             <Link className="btn" to="/projects">Featured Projects</Link>
@@ -48,10 +48,9 @@ I work with Java, Python, and databases, and I’m always learning better ways t
       <section className="section container">
         <h2 className="fade-up">Spotlight</h2>
         <div className="card fade-up fade-up-delay-2">
-          <h3>Shop Billing & Inventory System</h3>
+          <h3>Sales Savvy E-Commerce Platform</h3>
           <p className="muted">
-            A JavaFX desktop application for small retailers — billing, GST-ready invoices,
-            inventory tracking, secure PIN-protected login, PDF export and backups.
+            A full-stack online store with React, Spring Boot APIs, JWT auth, product management, and Razorpay-powered payments.
           </p>
           <div style={{ marginTop: 12 }}>
             <Link className="btn" to="/projects">See project details</Link>

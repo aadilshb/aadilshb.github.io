@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 
-export default function ContactForm({ initialEmail = 'aadil.portfolio@gmail.com' }) {
+export default function ContactForm({ initialEmail = 'portfolioaadil@gmail.com' }) {
   const [status, setStatus] = useState(null)
-  const FORM_ACTION = 'https://formspree.io/f/movolywr' // replace with your id
+  const FORM_ACTION = 'https://formspree.io/f/movolywr'
 
   async function handleSubmit(e) {
     e.preventDefault()

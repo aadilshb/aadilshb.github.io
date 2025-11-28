@@ -9,10 +9,11 @@ export default function Home() {
         <AnimatedBlob />
         <div className="hero-inner">
           <h1 className="fade-up">Hello — I'm <span className="accent">Aadil Shihab</span></h1>
-          <p className="lead fade-up fade-up-delay-1">
-            I’m a backend-leaning Software Developer who loves turning ideas into fast, reliable systems.
-            I work with Java, Python, and databases, and I’m always learning better ways to design APIs, manage data, and build scalable applications.
-          </p>
+            <p className="lead fade-up fade-up-delay-1">
+              I’m an entry-level backend-focused developer who enjoys building fast, reliable systems.
+              I have worked with Java, Python, and databases so far, and I’m actively improving my skills in API design,
+              data handling, and scalable backend development.
+            </p>
           <div className="hero-ctas fade-up fade-up-delay-2">
             <Link className="btn" to="/projects">Featured Projects</Link>
             <Link className="btn ghost" to="/contact">Get in touch</Link>

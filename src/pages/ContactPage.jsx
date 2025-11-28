@@ -12,7 +12,7 @@ export default function ContactPage() {
         </p>
 
         <div style={{ marginTop: 12 }}>
-          <ContactForm initialEmail="aadil.portfolio@gmail.com" />
+          <ContactForm initialEmail="portfolioaadil@gmail.com" />
         </div>
       </div>
     </section>

@@ -2,6 +2,17 @@ import React from 'react'
 
 const entries = [
   {
+    role: 'Custom Software Engineering Associate',
+    org: 'Accenture — Bengaluru',
+    dates: 'May 2026 — Present',
+    bullets: [
+      'Currently undergoing technical and corporate training in a professional software engineering environment.',
+      'Developing and strengthening skills in Java and Spring Boot through technical training and hands-on learning.',
+      'Building familiarity with software development practices, coding standards, and enterprise development workflows.',
+      'Developing Japanese business communication skills as part of a bilingual professional role.'
+    ]
+  },
+  {
     role: 'Software Development Intern',
     org: 'Kodnest Technologies — Bengaluru',
     dates: 'Feb 2025 — Sep 2025',

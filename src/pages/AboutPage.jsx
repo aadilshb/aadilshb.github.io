@@ -6,10 +6,12 @@ export default function AboutPage() {
      <h2>About</h2>
       <div className="card">
         <p>
-          I’m an early-career software developer with a strong interest in backend engineering and
-          building software that is reliable, efficient, and easy to maintain. I enjoy translating
-          academic foundations in Java, Python, data structures, and database management into
-          practical, production-oriented solutions.  
+          I’m a software developer with a strong interest in backend engineering and building software that is reliable, efficient, and maintainable. 
+          I work primarily with Java and Python, along with data structures, databases, and web technologies, and 
+          I enjoy turning ideas into practical, well-structured applications.
+
+I’m particularly interested in writing clean code, building reliable APIs, and solving problems through thoughtful software design. 
+I’m continuously learning new tools and best practices to improve the way I build and maintain software.  
           <br /><br />
           I feel most satisfied when I get the required functionality working smoothly, with clean code. 
           I’m continuously learning new tools and best practices to improve how I build software.

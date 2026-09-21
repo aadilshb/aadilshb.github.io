@@ -12,7 +12,7 @@ export default function Home() {
             <p className="lead fade-up fade-up-delay-1">
               I’m a software developer with a strong interest in backend and full-stack development. 
               I work with Java, Python, React, and databases, and I enjoy building practical applications and developing reliable APIs. 
-              I’m continuously working onimproving my skills in software design, development, and problem-solving 
+              I’m continuously working on improving my skills in software design, development, and problem-solving 
               while gaining professional experience in the industry.
             </p>
           <div className="hero-ctas fade-up fade-up-delay-2">
